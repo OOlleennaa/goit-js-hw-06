@@ -1,5 +1,5 @@
 
-document.querySelector('body').style.backgroundColor = '#FD22E7';
+document.querySelector('body').style.backgroundColor = '#fff500';
 const inputRangeRef = document.getElementById('font-size-control');
 const textRef = document.getElementById('text');
 const fontSizeControl = ({ currentTarget }) =>

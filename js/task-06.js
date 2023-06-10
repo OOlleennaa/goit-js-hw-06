@@ -1,4 +1,4 @@
-document.querySelector('body').style.backgroundColor = '#EBECF0';
+document.querySelector('body').style.backgroundColor = '#99F997';
 const inputRef = document.getElementById('validation-input');
 inputRef.addEventListener('blur', onBlurBorderColor);
 function onBlurBorderColor(event) {

@@ -1,4 +1,4 @@
-document.querySelector('body').style.backgroundColor = '#cfd1e1';
+document.querySelector('body').style.backgroundColor = '#26FD22';
 
 const inputRef = document.querySelector('#name-input');
 const nameRef = document.querySelector('#name-output');
